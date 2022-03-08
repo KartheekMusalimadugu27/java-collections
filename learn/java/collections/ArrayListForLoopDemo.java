@@ -1,11 +1,14 @@
 package learn.java.collections;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
-public class ArrayListFirLoopDemo {
+public class ArrayListForLoopDemo {
     
     public static void main(String args[]) {
 		List<Integer> list = new ArrayList<Integer>();
