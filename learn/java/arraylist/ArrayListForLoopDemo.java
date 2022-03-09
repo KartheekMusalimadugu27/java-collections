@@ -1,12 +1,9 @@
-package learn.java.collections;
+package learn.java.arraylist;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
 
 public class ArrayListForLoopDemo {
     
